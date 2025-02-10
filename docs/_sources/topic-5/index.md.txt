@@ -1,0 +1,19 @@
+# Assembly
+
+> **Key Question**: How does a computer interpret and execute C programs?
+
+```{image} system.png
+:align: center
+:width: 50%
+```
+
+GCC compiles our code into machine code instructions executable by our processor. Our processor uses registers and instructions like mov to manipulate data.
+
+**Why does this matter?** C is higher level and transferrable across machines. But it is not the level of abstraction used to execute our programs. Understanding how programs are compiled and executed, as well as computer architecture, is key to writing performant programs (e.g. fewer lines of code is not necessarily better). We can also reverse engineer and exploit programs at the assembly level!
+
+## Lectures
+
+## Labs
+
+
+## Assignments

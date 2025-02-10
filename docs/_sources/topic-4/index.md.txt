@@ -1,0 +1,13 @@
+# Generics
+
+> **Key Question**: How can we use our knowledge of memory and data representation to write code that works with any data type?
+
+We can use `void *` to circumvent the type system, `memcpy`, etc. to copy generic data, and function pointers to pass logic around.
+
+**Why does this matter?** Working with any data type lets us write more generic, reusable code. Using generics also helps us better understand the type system in C and other languages, and where it can help and hinder our program.
+
+## Lectures
+
+## Labs
+
+## Assignments

@@ -1,0 +1,18 @@
+# Chars and C-Strings
+
+> **Key Question**: How can a computer represent and manipulate more complex data like text?
+
+```{image} string.png
+:align: center
+:width: 60%
+```
+
+Strings in C are arrays of characters ending with a null terminator! We can manipulate them using pointers and C library functions (many of which you could probably implement).
+
+**Why does this matter?** Understanding this representation is key to efficient string manipulation. This is also how strings are represented in both low- and high-level languages such as C++ and Python.
+
+## Lectures
+
+## Labs
+
+## Assignments

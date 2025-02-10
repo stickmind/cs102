@@ -1,0 +1,18 @@
+# Pointers, Stack and Heap
+
+> **Key Question**: How can we effectively manage all types of memory in our programs?
+
+```{image} pointers.png
+:align: center
+:width: 45%
+```
+
+Arrays let us store ordered lists of information. Pointers let us pass addresses of data instead of the data itself. We can use the stack, which cleans up memory for us, or the heap, which we must manually manage.
+
+**Why does this matter?** The stack and heap allow for two ways to store data in our programs, each with their own tradeoffs, and it’s crucial to understand the nuances of managing memory in any program you write! Pointers also let us pass around references to data efficiently.
+
+## Lectures
+
+## Labs
+
+## Assignments

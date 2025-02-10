@@ -1,0 +1,12 @@
+# Heap Allocators
+
+> **Key Question**: How do core memory-allocation operations like malloc and free work?
+
+```{image} heap.png
+:align: center
+:width: 40%
+```
+
+A heap allocator manages a block of memory for the heap and completes requests to use or give up memory space. We can manage the data in a heap allocator using headers, pointers to free blocks, or other designs
+
+**Why does this matter?** Designing a heap allocator requires making many design decisions to optimize it as much as possible. There is no perfect design! All languages have a "heap", but manipulate it in different ways.

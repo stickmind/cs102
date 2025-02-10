@@ -1,0 +1,16 @@
+# Bits and Bytes
+
+> **Key Question**: How can a computer represent integer numbers?
+
+```{image} twoscomplement.png
+:align: center
+:width: 50%
+```
+
+**Why does this matter?** Limitations of representation and arithmetic impact programs! We can also efficiently manipulate data using bits.
+
+## Lectures
+
+## Labs
+
+## Assignments

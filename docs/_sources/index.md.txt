@@ -1,0 +1,43 @@
+# Welcome to CS102!
+
+```{toctree}
+:hidden:
+
+topic-1/index
+topic-2/index
+topic-3/index
+topic-4/index
+topic-5/index
+topic-6/index
+```
+
+[CS102](./index.md) is the third course in our introductory programming sequence. The CS101A/B courses provide you with a solid foundation in programming methodology and abstractions, and [CS102](./index.md) follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging,performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management.
+
+## Prerequisites
+
+The prerequisite for CS102 is [CS101](https://cs101.stickmind.com) (or equivalent). You should have practical C/C++skills using recursion, dynamic data structures (pointers, linked lists, trees, graphs), data abstraction, classic data structures (lists, stacks, queues, sets, maps), and standard algorithms (searching, sorting, hashing). You should have an appreciation of the intrinsic value of good engineering and design and you will be expected to produce well-decomposed, readable code.
+
+## Course Goals
+
+The goals for CS102 are for students to gain mastery of
+
+- writing C programs with complex use of memory and pointers
+- an accurate model of the address space and compile/runtime behavior of C programs
+
+to achieve competence in
+
+- translating C to/from assembly
+- writing programs that respect the limitations of computer arithmetic
+- identifying bottlenecks and improving runtime performance
+- working effectively in a Unix development environment
+
+and have exposure to
+
+- a working understanding of the basics of computer architecture
+
+In CS102, there will be significant programming assignments and you can expect to work hard and be challenged by this course. Your effort can really pay off - once you master the machine and advance your programming skills to the next level, you will have powerful mojo to bring to any future project!
+
+## Textbook
+
+Bryant & O’Hallaron. Computer Systems: A Programmer’s Perspective (3rd Edition)
+
